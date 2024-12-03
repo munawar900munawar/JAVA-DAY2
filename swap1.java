@@ -1,7 +1,7 @@
-import.java.util.*;
+import java.util.*;
 public class swap1{
     public static void main(String args[]){
-        Scanner sc=new scanner(System.in);
+        Scanner sc=new Scanner(System.in);
         int b=sc.nextInt();
         int g=sc.nextInt();
         int c=b;
